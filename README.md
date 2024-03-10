@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Career
+#### [23.01.09 ~] / Hyundai-autoever / Route Development Team
 <!--
 **ParkJungGyu/ParkJungGyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
